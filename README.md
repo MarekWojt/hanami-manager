@@ -1,0 +1,2 @@
+# hanami-manager
+Hanami Manager
